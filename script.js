@@ -16,7 +16,7 @@ var marker2 = L.marker([41.328487, 19.818070]).addTo(map)
 
 
 var marker3 = L.marker([39.873122, 20.003893]).addTo(map)
-.bindPopup('vend<br> Tirane')
+.bindPopup('vend<br> Saranda')
     .openPopup();
 ;
 
